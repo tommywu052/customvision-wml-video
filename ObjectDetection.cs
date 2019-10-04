@@ -78,7 +78,6 @@ namespace CodeMashMarvelUwp01
 
         public ObjectDetection(int maxDetections = 20, float probabilityThreshold = 0.1f, float iouThreshold = 0.45f)
         {
-            //Labels = new List<string>() { "Iron_Fist", "Rocket_Racoon", "Venom" };
             Labels = new List<string>() { "arch", "rect", "semicircle", "square", "triangle" }; 
             MaxDetections = maxDetections;
             ProbabilityThreshold = probabilityThreshold;
