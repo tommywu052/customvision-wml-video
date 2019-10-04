@@ -6,3 +6,4 @@
 - Modify DrawFrame function in MainPage.xaml.cs to replace your object drawing 
 - Connect with your camera
 - Reading videoframe for Windows ML infernece
+![](https://github.com/tommywu052/customvision-wml-video/blob/master/images/wmlvideo.jpg)
