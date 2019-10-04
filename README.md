@@ -1,4 +1,6 @@
 # customvision-wml-video
-1.You can download model as onnx format from customvision.ai portal
-2.Connect with your camera
-3.Reading videoframe for Windows ML infernece
+### Features
+
+- You can download model as onnx format from [customvision.ai](https://www.customvision.ai/ "customvision.ai") portal
+- Connect with your camera
+- Reading videoframe for Windows ML infernece
