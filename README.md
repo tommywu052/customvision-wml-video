@@ -1,5 +1,5 @@
 # customvision-wml-video
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftemplates/template.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftommywu052%2Fcustomvision-wml-video%2Fmaster%2Ftemplates%2Ftemplate.json)
 ### Features
 
 - You can download model as onnx format from [customvision.ai](https://www.customvision.ai/ "customvision.ai") portal
